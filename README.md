@@ -46,3 +46,8 @@ Enter the annual percentage rate (APR) for the CD account: 3
 Enter the number of months for the CD account: 12
 CD Account: Interest Earned: $60.00, Updated Balance: $2060.00
 
+## Sources
+Utilized ChatGPT to help with Account class error handling on Deposit
+Utilized ChatGPT to write README.md
+Utilized Grok to check code
+
